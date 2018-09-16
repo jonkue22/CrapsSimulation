@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 // my first git edit...
+// pushing under seis-635-fall2018 account
+
 
 /**
  * Starting application for running multiple simulations of CrapsGame. This
